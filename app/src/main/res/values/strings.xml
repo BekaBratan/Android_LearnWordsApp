@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ExampleAndroid</string>
+    <string name="button_skip">Skip</string>
+    <string name="title_correct">Correct!</string>
+    <string name="title_wrong">Wrong!</string>
+    <string name="button_continue">Continue</string>
+    <string name="complete">Complete</string>
 </resources>
