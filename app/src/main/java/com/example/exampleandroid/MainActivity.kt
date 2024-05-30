@@ -149,11 +149,11 @@ class MainActivity : AppCompatActivity() {
         if (isCorrect) {
             color = ContextCompat.getColor(this, R.color.correct)
             resultIconResource = R.drawable.ic_correct
-            messageText = R.string.title_correct.toString()
+            messageText = getString(R.string.title_correct)
         } else {
             color = ContextCompat.getColor(this, R.color.wrong)
             resultIconResource = R.drawable.ic_correct
-            messageText = R.string.title_wrong.toString()
+            messageText = getString(R.string.title_wrong)
         }
 
         with(binding) {

@@ -3,6 +3,7 @@
     <string name="app_name">ExampleAndroid</string>
     <string name="button_skip">Пропустить</string>
     <string name="title_correct">Правильно!</string>
+    <string name="title_wrong">Не правильно!</string>
     <string name="button_continue">Продолжить</string>
     <string name="complete">Завершить</string>
 </resources>
